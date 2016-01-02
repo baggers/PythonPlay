@@ -15,4 +15,3 @@ with open('data.txt', 'w') as outfile:
 #print(r.json())
 
 #print(r.url)
-
